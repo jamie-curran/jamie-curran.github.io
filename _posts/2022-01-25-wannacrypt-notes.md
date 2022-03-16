@@ -158,7 +158,7 @@ I will need to deobscure this file and find the earlier string.
 ## wireshark 
 
 Nothing came out of the windows machine, most likely due to windows alerting that the network was disabled.
-![[Pasted image 20220126115442.png]]
+![wire shark][./wireshark.png]{:class="img-responsive"}
 
 ---
 
