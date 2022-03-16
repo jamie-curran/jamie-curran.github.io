@@ -1,1 +1,8 @@
+title: My personal log
+author: Jamie Curran
+email: jamie@jamie-curran.com
+description: Jamie Curran's personal blog todo with reverse engineering, ctf notes (htb/thm/competitions) and malware analysis
 theme: jekyll-theme-hacker
+# social links
+github_username:  jamie-curran # DO NOT include the @ character, or else the build will fail!
+show_excerpts: true # set to false to remove excerpts on the homepage
