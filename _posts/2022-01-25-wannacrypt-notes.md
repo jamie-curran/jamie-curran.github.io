@@ -1,6 +1,8 @@
 ---
-title: "malware-analysis wannacrypt"
+layout: post
+title: wannacrypt notes"
 date: 2022-01-25
+categories: reverse-engineering malware-analysis inital-testing
 ---
 
 # Introduction 
