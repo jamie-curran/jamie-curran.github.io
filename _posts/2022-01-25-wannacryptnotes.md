@@ -1,8 +1,6 @@
 ---  
-layout: post  
-title:  "wannacryptnotes"  
-date:   2022-01-25 16:16:01 -0600  
-categories: jekyll update  
+title: Another Sample Page
+published: true
 ---
 
 # Introduction 
