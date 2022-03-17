@@ -1,5 +1,5 @@
 ---
-title: "wannacryptnotes"
+title: wannacryptnotes
 date: 2022-01-25
 ---
 
