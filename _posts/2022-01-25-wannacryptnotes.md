@@ -1,7 +1,7 @@
 ---
 layout: post
 title: wannacryptnotes
-date: 2022-01-25:20:46.000
+date: 2022-01-25 15:00:35 -0000
 ---
 
 # Introduction 
