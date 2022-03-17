@@ -160,8 +160,6 @@ I will need to deobscure this file and find the earlier string.
 Nothing came out of the windows machine, most likely due to windows alerting that the network was disabled.
 
 
-![wireshark][/jamie-curran.github.io/images/wireshark.png]
-
 
 
 ---
